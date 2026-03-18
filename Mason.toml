@@ -7,6 +7,6 @@ version = "0.0.1"
 
 [dependencies]
 
-[external]
-arrow = "arrow@19.0.1"
+[system]
+arrow = "19.0.1"
 
